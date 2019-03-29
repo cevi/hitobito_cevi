@@ -1,7 +1,9 @@
 === Hitobito CEVI
 
-Dieses Repo wird benützt um offene Anliegen für db.cevi.ch aus RV ZH-SH-Gl sowie Cevi WS
-zu verwalten
+Dieses Repo wird benützt um offene Anliegen für db.cevi.ch aus dem Cevi-Datenbank-Gremium zu verwalten.
 
-
-
+Mitglieder im Cevi-Datenbank-Gremium:
+- Cevi Regionalverband ZH-SH-Gl
+- Cevi Region Winterthur-Schaffhausen
+- Cevi Region Bern
+- Cevi Schweiz
