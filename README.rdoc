@@ -3,7 +3,7 @@
 Dieses Repo wird benützt um offene Anliegen für db.cevi.ch aus dem Cevi-Datenbank-Gremium zu verwalten.
 
 Mitglieder im Cevi-Datenbank-Gremium:
-- Cevi Regionalverband ZH-SH-Gl
+- Cevi Regionalverband ZH-SH-GL
 - Cevi Region Winterthur-Schaffhausen
 - Cevi Region Bern
 - Cevi Schweiz
