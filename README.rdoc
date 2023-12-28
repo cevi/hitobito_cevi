@@ -2,6 +2,14 @@
 
 This hitobito wagon defines the organization hierarchy with groups and roles of Cevi.
 
+The following member organisations are using hitobito:
+- Cevi Region Zürich
+- Cevi Region Winterthur-Schaffhausen
+- Cevi Region Bern
+- Cevi Alpin
+- Cevi Region AG-SO-LU-ZG
+- Cevi Schweiz
+
 === Cevi Organization Hierarchy
 
     * Dachverband
