@@ -16,24 +16,20 @@ class Group::MitgliederorganisationGremium < Group::Gremium
     self.permissions = [:layer_and_below_read, :group_and_below_full, :contact_data]
   end
 
-  # get the group_and_below_full permission as they should also be able to create events
   class Mitglied < ::Role
-    self.permissions = [:layer_and_below_read, :group_and_below_full]
+    self.permissions = [:layer_and_below_read]
   end
 
-  # get the group_and_below_full permission as they should also be able to create events
   class AktiverKursleiter < ::Role
-    self.permissions = [:layer_and_below_read, :group_and_below_full]
+    self.permissions = [:layer_and_below_read]
   end
 
-  # get the group_and_below_full permission as they should also be able to create events
   class Ausbildungsmitglied < ::Role
-    self.permissions = [:layer_and_below_read, :group_and_below_full]
+    self.permissions = [:layer_and_below_read]
   end
 
-  # get the group_and_below_full permission as they should also be able to create events
   class Kassier < ::Role
-    self.permissions = [:layer_and_below_read, :group_and_below_full, :finance]
+    self.permissions = [:layer_and_below_read]
   end
 
   roles Leitung,
