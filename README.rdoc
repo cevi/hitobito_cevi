@@ -8,6 +8,7 @@ The following member organisations are using hitobito:
 - Cevi Region Bern
 - Cevi Alpin
 - Cevi Region AG-SO-LU-ZG
+- Cevi Region Ostschweiz
 - Cevi Schweiz
 
 === Cevi Organization Hierarchy
