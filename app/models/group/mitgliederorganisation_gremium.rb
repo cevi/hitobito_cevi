@@ -29,7 +29,7 @@ class Group::MitgliederorganisationGremium < Group::Gremium
   end
 
   class Kassier < ::Role
-    self.permissions = [:layer_and_below_read]
+    self.permissions = [:layer_and_below_read, :finance]
   end
 
   roles Leitung,
